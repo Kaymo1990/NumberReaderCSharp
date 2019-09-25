@@ -1,0 +1,11 @@
+C:\Users\Kay\source\repos\NumberReader\NumberReader\bin\Debug\netcoreapp2.2\NumberReader.deps.json
+C:\Users\Kay\source\repos\NumberReader\NumberReader\bin\Debug\netcoreapp2.2\NumberReader.runtimeconfig.json
+C:\Users\Kay\source\repos\NumberReader\NumberReader\bin\Debug\netcoreapp2.2\NumberReader.runtimeconfig.dev.json
+C:\Users\Kay\source\repos\NumberReader\NumberReader\bin\Debug\netcoreapp2.2\NumberReader.dll
+C:\Users\Kay\source\repos\NumberReader\NumberReader\bin\Debug\netcoreapp2.2\NumberReader.pdb
+C:\Users\Kay\source\repos\NumberReader\NumberReader\obj\Debug\netcoreapp2.2\NumberReader.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\NumberReader\NumberReader\obj\Debug\netcoreapp2.2\NumberReader.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\NumberReader\NumberReader\obj\Debug\netcoreapp2.2\NumberReader.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\NumberReader\NumberReader\obj\Debug\netcoreapp2.2\NumberReader.AssemblyInfo.cs
+C:\Users\Kay\source\repos\NumberReader\NumberReader\obj\Debug\netcoreapp2.2\NumberReader.dll
+C:\Users\Kay\source\repos\NumberReader\NumberReader\obj\Debug\netcoreapp2.2\NumberReader.pdb
