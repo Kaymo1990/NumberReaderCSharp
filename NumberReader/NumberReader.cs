@@ -6,16 +6,16 @@ namespace NumberReader
 {
     class NumberReader
     {
-        public static void IsValidNumber(int testNumber)
+        public static string IsValidNumber(int testNumber)
         {
             if ((testNumber <= 10) && (testNumber >= 1))
             {
-                Console.WriteLine("Valid");
+                return "Valid";
             }
 
             else
             {
-                Console.WriteLine("Invalid");
+                return "Invalid";
             }
         }
     }

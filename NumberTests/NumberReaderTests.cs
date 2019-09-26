@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using System;
 
 namespace Tests
 {
@@ -9,6 +10,12 @@ namespace Tests
         public void Test1()
         {
             Assert.Pass();
+        }
+
+        [Test]
+        public void IsNumberValid()
+        {
+            var input = 1;
         }
     }
 }
