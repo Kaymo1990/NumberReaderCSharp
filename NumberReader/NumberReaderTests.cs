@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 using NUnit.Framework;
-using NumberReader;
 
 namespace NumberReader
 
@@ -20,7 +19,7 @@ namespace NumberReader
         }
 
         [Test]
-        public void InputInvalid_WhenPassedInput_ShouldReturnInvalid([Values(11,12,13,14,0,-1,-2)] int input)
+        public void InputInvalid_WhenPassedInput_ShouldReturnInvalid([Values(11, 12, 13, 14, 0, -1, -2)] int input)
         {
             string output = NumberReader.IsValidNumber(input);
             Assert.AreEqual("Invalid", output);
