@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using NUnit.Framework;
-
-namespace NumberReader
-
+﻿using NUnit.Framework;
+namespace NumberReaderTesting
 {
     [TestFixture]
-    class NumberReaderTests
+    public class NumberReaderTest
     {
-
 
         [Test]
         public void InputValid_WhenPassedInput_ShouldReturnValid([Values(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)] int input)

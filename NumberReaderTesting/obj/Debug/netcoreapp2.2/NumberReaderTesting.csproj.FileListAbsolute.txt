@@ -1,0 +1,4 @@
+C:\Users\Kay\source\repos\NumberReader\NumberReaderTesting\obj\Debug\netcoreapp2.2\NumberReaderTesting.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\NumberReader\NumberReaderTesting\obj\Debug\netcoreapp2.2\NumberReaderTesting.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\NumberReader\NumberReaderTesting\obj\Debug\netcoreapp2.2\NumberReaderTesting.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\NumberReader\NumberReaderTesting\obj\Debug\netcoreapp2.2\NumberReaderTesting.AssemblyInfo.cs

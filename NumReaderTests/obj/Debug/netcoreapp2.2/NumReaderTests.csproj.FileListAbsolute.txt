@@ -1,0 +1,17 @@
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NumReaderTests.deps.json
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NumReaderTests.dll
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\obj\Debug\netcoreapp2.2\NumReaderTests.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\obj\Debug\netcoreapp2.2\NumReaderTests.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\obj\Debug\netcoreapp2.2\NumReaderTests.AssemblyInfo.cs
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\obj\Debug\netcoreapp2.2\NumReaderTests.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NumReaderTests.runtimeconfig.json
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NumReaderTests.runtimeconfig.dev.json
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NumReaderTests.pdb
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NumberReader.dll
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\bin\Debug\netcoreapp2.2\NumberReader.pdb
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\obj\Debug\netcoreapp2.2\NumReaderTests.csproj.CopyComplete
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\obj\Debug\netcoreapp2.2\NumReaderTests.dll
+C:\Users\Kay\source\repos\NumberReader\NumReaderTests\obj\Debug\netcoreapp2.2\NumReaderTests.pdb
